@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\tyler\\Documents\\GitHub\\Game-Dev-III\\My project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\tyler\\Documents\\GitHub\\Game-Dev-III\\My project\\Assets\\Assets\\Prototype 1\\Scripts\\PlayerController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Assets\\Prototype 1\\Scripts\\PlayerController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\tyler\\documents\\github\\game-dev-iii\\my project\\assets\\assets\\prototype 1\\challenge 4\\scripts\\playercontrollerx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\assets\\prototype 1\\challenge 4\\scripts\\playercontrollerx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\tyler\\documents\\github\\game-dev-iii\\my project\\assets\\assets\\prototype 1\\challenge 4\\scripts\\spawnmanagerx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\assets\\prototype 1\\challenge 4\\scripts\\spawnmanagerx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\tyler\\documents\\github\\game-dev-iii\\my project\\assets\\assets\\prototype 1\\challenge 4\\scripts\\enemyx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\assets\\prototype 1\\challenge 4\\scripts\\enemyx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +22,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "PlayerController.cs",
-              "DocumentMoniker": "C:\\Users\\tyler\\Documents\\GitHub\\Game-Dev-III\\My project\\Assets\\Assets\\Prototype 1\\Scripts\\PlayerController.cs",
-              "RelativeDocumentMoniker": "Assets\\Assets\\Prototype 1\\Scripts\\PlayerController.cs",
-              "ToolTip": "C:\\Users\\tyler\\Documents\\GitHub\\Game-Dev-III\\My project\\Assets\\Assets\\Prototype 1\\Scripts\\PlayerController.cs",
-              "RelativeToolTip": "Assets\\Assets\\Prototype 1\\Scripts\\PlayerController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "SpawnManagerX.cs",
+              "DocumentMoniker": "C:\\Users\\tyler\\Documents\\GitHub\\Game-Dev-III\\My project\\Assets\\Assets\\Prototype 1\\Challenge 4\\Scripts\\SpawnManagerX.cs",
+              "RelativeDocumentMoniker": "Assets\\Assets\\Prototype 1\\Challenge 4\\Scripts\\SpawnManagerX.cs",
+              "ToolTip": "C:\\Users\\tyler\\Documents\\GitHub\\Game-Dev-III\\My project\\Assets\\Assets\\Prototype 1\\Challenge 4\\Scripts\\SpawnManagerX.cs",
+              "RelativeToolTip": "Assets\\Assets\\Prototype 1\\Challenge 4\\Scripts\\SpawnManagerX.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwDEAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-21T04:59:12.722Z",
+              "WhenOpened": "2026-06-21T06:46:49.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerControllerX.cs",
+              "DocumentMoniker": "C:\\Users\\tyler\\Documents\\GitHub\\Game-Dev-III\\My project\\Assets\\Assets\\Prototype 1\\Challenge 4\\Scripts\\PlayerControllerX.cs",
+              "RelativeDocumentMoniker": "Assets\\Assets\\Prototype 1\\Challenge 4\\Scripts\\PlayerControllerX.cs",
+              "ToolTip": "C:\\Users\\tyler\\Documents\\GitHub\\Game-Dev-III\\My project\\Assets\\Assets\\Prototype 1\\Challenge 4\\Scripts\\PlayerControllerX.cs",
+              "RelativeToolTip": "Assets\\Assets\\Prototype 1\\Challenge 4\\Scripts\\PlayerControllerX.cs",
+              "ViewState": "AgIAAKIAAAAAAAAAAAAqwM0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-21T06:34:53.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EnemyX.cs",
+              "DocumentMoniker": "C:\\Users\\tyler\\Documents\\GitHub\\Game-Dev-III\\My project\\Assets\\Assets\\Prototype 1\\Challenge 4\\Scripts\\EnemyX.cs",
+              "RelativeDocumentMoniker": "Assets\\Assets\\Prototype 1\\Challenge 4\\Scripts\\EnemyX.cs",
+              "ToolTip": "C:\\Users\\tyler\\Documents\\GitHub\\Game-Dev-III\\My project\\Assets\\Assets\\Prototype 1\\Challenge 4\\Scripts\\EnemyX.cs",
+              "RelativeToolTip": "Assets\\Assets\\Prototype 1\\Challenge 4\\Scripts\\EnemyX.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-21T06:30:33.357Z",
               "EditorCaption": ""
             }
           ]
