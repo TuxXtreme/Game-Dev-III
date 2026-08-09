@@ -3,36 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\tyler\\Documents\\GitHub\\Game-Dev-III\\My project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\tyler\\documents\\github\\game-dev-iii\\my project\\assets\\assets\\prototype 2\\scripts\\treegrowth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\assets\\prototype 2\\scripts\\treegrowth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\tyler\\documents\\github\\game-dev-iii\\my project\\assets\\assets\\universal\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\assets\\universal\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\tyler\\documents\\github\\game-dev-iii\\my project\\assets\\assets\\prototype 2\\scripts\\sunlightpickup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\assets\\prototype 2\\scripts\\sunlightpickup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\tyler\\documents\\github\\game-dev-iii\\my project\\assets\\assets\\prototype 3\\scripts\\pressureplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\assets\\prototype 3\\scripts\\pressureplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\tyler\\documents\\github\\game-dev-iii\\my project\\assets\\assets\\prototype 2\\scripts\\waterpickup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\assets\\prototype 2\\scripts\\waterpickup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\tyler\\documents\\github\\game-dev-iii\\my project\\assets\\assets\\prototype 3\\scripts\\timeecho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\assets\\prototype 3\\scripts\\timeecho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\tyler\\documents\\github\\game-dev-iii\\my project\\assets\\assets\\prototype 2\\scripts\\playerinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\assets\\prototype 2\\scripts\\playerinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\tyler\\Documents\\GitHub\\Game-Dev-III\\My project\\Assets\\Assets\\Prototype 3\\Scripts\\TimeRewind.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Assets\\Prototype 3\\Scripts\\TimeRewind.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\tyler\\Documents\\GitHub\\Game-Dev-III\\My project\\Assets\\Assets\\Prototype 2\\Scripts\\PlayerMovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Assets\\Prototype 2\\Scripts\\PlayerMovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\tyler\\documents\\github\\game-dev-iii\\my project\\assets\\assets\\prototype 3\\scripts\\movingobstacle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\assets\\prototype 3\\scripts\\movingobstacle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\tyler\\documents\\github\\game-dev-iii\\my project\\assets\\assets\\prototype 1\\challenge 4\\scripts\\playercontrollerx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\assets\\prototype 1\\challenge 4\\scripts\\playercontrollerx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\tyler\\documents\\github\\game-dev-iii\\my project\\assets\\assets\\prototype 3\\scripts\\goal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\assets\\prototype 3\\scripts\\goal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\tyler\\documents\\github\\game-dev-iii\\my project\\assets\\assets\\prototype 1\\challenge 4\\scripts\\enemyx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\assets\\prototype 1\\challenge 4\\scripts\\enemyx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\tyler\\documents\\github\\game-dev-iii\\my project\\assets\\assets\\prototype 1\\challenge 4\\scripts\\spawnmanagerx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\assets\\prototype 1\\challenge 4\\scripts\\spawnmanagerx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\tyler\\documents\\github\\game-dev-iii\\my project\\assets\\assets\\prototype 3\\scripts\\hazard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\assets\\prototype 3\\scripts\\hazard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,109 +38,97 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "SunlightPickup.cs",
-              "DocumentMoniker": "C:\\Users\\tyler\\Documents\\GitHub\\Game-Dev-III\\My project\\Assets\\Assets\\Prototype 2\\Scripts\\SunlightPickup.cs",
-              "RelativeDocumentMoniker": "Assets\\Assets\\Prototype 2\\Scripts\\SunlightPickup.cs",
-              "ToolTip": "C:\\Users\\tyler\\Documents\\GitHub\\Game-Dev-III\\My project\\Assets\\Assets\\Prototype 2\\Scripts\\SunlightPickup.cs",
-              "RelativeToolTip": "Assets\\Assets\\Prototype 2\\Scripts\\SunlightPickup.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "PlayerMovement.cs",
+              "DocumentMoniker": "C:\\Users\\tyler\\Documents\\GitHub\\Game-Dev-III\\My project\\Assets\\Assets\\Universal\\Scripts\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Assets\\Universal\\Scripts\\PlayerMovement.cs",
+              "ToolTip": "C:\\Users\\tyler\\Documents\\GitHub\\Game-Dev-III\\My project\\Assets\\Assets\\Universal\\Scripts\\PlayerMovement.cs",
+              "RelativeToolTip": "Assets\\Assets\\Universal\\Scripts\\PlayerMovement.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAqwE8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-09T10:59:01.078Z",
+              "WhenOpened": "2026-08-09T13:04:29.218Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "WaterPickup.cs",
-              "DocumentMoniker": "C:\\Users\\tyler\\Documents\\GitHub\\Game-Dev-III\\My project\\Assets\\Assets\\Prototype 2\\Scripts\\WaterPickup.cs",
-              "RelativeDocumentMoniker": "Assets\\Assets\\Prototype 2\\Scripts\\WaterPickup.cs",
-              "ToolTip": "C:\\Users\\tyler\\Documents\\GitHub\\Game-Dev-III\\My project\\Assets\\Assets\\Prototype 2\\Scripts\\WaterPickup.cs",
-              "RelativeToolTip": "Assets\\Assets\\Prototype 2\\Scripts\\WaterPickup.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAACAAAAAAAAAA==",
+              "Title": "TimeEcho.cs",
+              "DocumentMoniker": "C:\\Users\\tyler\\Documents\\GitHub\\Game-Dev-III\\My project\\Assets\\Assets\\Prototype 3\\Scripts\\TimeEcho.cs",
+              "RelativeDocumentMoniker": "Assets\\Assets\\Prototype 3\\Scripts\\TimeEcho.cs",
+              "ToolTip": "C:\\Users\\tyler\\Documents\\GitHub\\Game-Dev-III\\My project\\Assets\\Assets\\Prototype 3\\Scripts\\TimeEcho.cs",
+              "RelativeToolTip": "Assets\\Assets\\Prototype 3\\Scripts\\TimeEcho.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAqwHoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-09T10:33:49.83Z",
+              "WhenOpened": "2026-08-09T13:00:46.066Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "PlayerInventory.cs",
-              "DocumentMoniker": "C:\\Users\\tyler\\Documents\\GitHub\\Game-Dev-III\\My project\\Assets\\Assets\\Prototype 2\\Scripts\\PlayerInventory.cs",
-              "RelativeDocumentMoniker": "Assets\\Assets\\Prototype 2\\Scripts\\PlayerInventory.cs",
-              "ToolTip": "C:\\Users\\tyler\\Documents\\GitHub\\Game-Dev-III\\My project\\Assets\\Assets\\Prototype 2\\Scripts\\PlayerInventory.cs",
-              "RelativeToolTip": "Assets\\Assets\\Prototype 2\\Scripts\\PlayerInventory.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAqwDYAAAABAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "PressurePlate.cs",
+              "DocumentMoniker": "C:\\Users\\tyler\\Documents\\GitHub\\Game-Dev-III\\My project\\Assets\\Assets\\Prototype 3\\Scripts\\PressurePlate.cs",
+              "RelativeDocumentMoniker": "Assets\\Assets\\Prototype 3\\Scripts\\PressurePlate.cs",
+              "ToolTip": "C:\\Users\\tyler\\Documents\\GitHub\\Game-Dev-III\\My project\\Assets\\Assets\\Prototype 3\\Scripts\\PressurePlate.cs",
+              "RelativeToolTip": "Assets\\Assets\\Prototype 3\\Scripts\\PressurePlate.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwBwAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-09T10:32:09.905Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "TreeGrowth.cs",
-              "DocumentMoniker": "C:\\Users\\tyler\\Documents\\GitHub\\Game-Dev-III\\My project\\Assets\\Assets\\Prototype 2\\Scripts\\TreeGrowth.cs",
-              "RelativeDocumentMoniker": "Assets\\Assets\\Prototype 2\\Scripts\\TreeGrowth.cs",
-              "ToolTip": "C:\\Users\\tyler\\Documents\\GitHub\\Game-Dev-III\\My project\\Assets\\Assets\\Prototype 2\\Scripts\\TreeGrowth.cs",
-              "RelativeToolTip": "Assets\\Assets\\Prototype 2\\Scripts\\TreeGrowth.cs",
-              "ViewState": "AgIAADYAAAAAAAAAAAAiwEsAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-09T10:29:16.525Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "SpawnManagerX.cs",
-              "DocumentMoniker": "C:\\Users\\tyler\\Documents\\GitHub\\Game-Dev-III\\My project\\Assets\\Assets\\Prototype 1\\Challenge 4\\Scripts\\SpawnManagerX.cs",
-              "RelativeDocumentMoniker": "Assets\\Assets\\Prototype 1\\Challenge 4\\Scripts\\SpawnManagerX.cs",
-              "ToolTip": "C:\\Users\\tyler\\Documents\\GitHub\\Game-Dev-III\\My project\\Assets\\Assets\\Prototype 1\\Challenge 4\\Scripts\\SpawnManagerX.cs",
-              "RelativeToolTip": "Assets\\Assets\\Prototype 1\\Challenge 4\\Scripts\\SpawnManagerX.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAYwDEAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-21T06:46:49.043Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "PlayerControllerX.cs",
-              "DocumentMoniker": "C:\\Users\\tyler\\Documents\\GitHub\\Game-Dev-III\\My project\\Assets\\Assets\\Prototype 1\\Challenge 4\\Scripts\\PlayerControllerX.cs",
-              "RelativeDocumentMoniker": "Assets\\Assets\\Prototype 1\\Challenge 4\\Scripts\\PlayerControllerX.cs",
-              "ToolTip": "C:\\Users\\tyler\\Documents\\GitHub\\Game-Dev-III\\My project\\Assets\\Assets\\Prototype 1\\Challenge 4\\Scripts\\PlayerControllerX.cs",
-              "RelativeToolTip": "Assets\\Assets\\Prototype 1\\Challenge 4\\Scripts\\PlayerControllerX.cs",
-              "ViewState": "AgIAAKIAAAAAAAAAAAAqwM0AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-21T06:34:53.309Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "EnemyX.cs",
-              "DocumentMoniker": "C:\\Users\\tyler\\Documents\\GitHub\\Game-Dev-III\\My project\\Assets\\Assets\\Prototype 1\\Challenge 4\\Scripts\\EnemyX.cs",
-              "RelativeDocumentMoniker": "Assets\\Assets\\Prototype 1\\Challenge 4\\Scripts\\EnemyX.cs",
-              "ToolTip": "C:\\Users\\tyler\\Documents\\GitHub\\Game-Dev-III\\My project\\Assets\\Assets\\Prototype 1\\Challenge 4\\Scripts\\EnemyX.cs",
-              "RelativeToolTip": "Assets\\Assets\\Prototype 1\\Challenge 4\\Scripts\\EnemyX.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-21T06:30:33.357Z",
+              "WhenOpened": "2026-08-09T12:57:57.973Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "PlayerMovement.cs",
-              "DocumentMoniker": "C:\\Users\\tyler\\Documents\\GitHub\\Game-Dev-III\\My project\\Assets\\Assets\\Prototype 2\\Scripts\\PlayerMovement.cs",
-              "RelativeDocumentMoniker": "Assets\\Assets\\Prototype 2\\Scripts\\PlayerMovement.cs",
-              "ToolTip": "C:\\Users\\tyler\\Documents\\GitHub\\Game-Dev-III\\My project\\Assets\\Assets\\Prototype 2\\Scripts\\PlayerMovement.cs",
-              "RelativeToolTip": "Assets\\Assets\\Prototype 2\\Scripts\\PlayerMovement.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Title": "MovingObstacle.cs",
+              "DocumentMoniker": "C:\\Users\\tyler\\Documents\\GitHub\\Game-Dev-III\\My project\\Assets\\Assets\\Prototype 3\\Scripts\\MovingObstacle.cs",
+              "RelativeDocumentMoniker": "Assets\\Assets\\Prototype 3\\Scripts\\MovingObstacle.cs",
+              "ToolTip": "C:\\Users\\tyler\\Documents\\GitHub\\Game-Dev-III\\My project\\Assets\\Assets\\Prototype 3\\Scripts\\MovingObstacle.cs",
+              "RelativeToolTip": "Assets\\Assets\\Prototype 3\\Scripts\\MovingObstacle.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAqwG4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-09T10:24:35.303Z",
+              "WhenOpened": "2026-08-09T12:51:35.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Goal.cs",
+              "DocumentMoniker": "C:\\Users\\tyler\\Documents\\GitHub\\Game-Dev-III\\My project\\Assets\\Assets\\Prototype 3\\Scripts\\Goal.cs",
+              "RelativeDocumentMoniker": "Assets\\Assets\\Prototype 3\\Scripts\\Goal.cs",
+              "ToolTip": "C:\\Users\\tyler\\Documents\\GitHub\\Game-Dev-III\\My project\\Assets\\Assets\\Prototype 3\\Scripts\\Goal.cs",
+              "RelativeToolTip": "Assets\\Assets\\Prototype 3\\Scripts\\Goal.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAqwEYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-09T12:47:16.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Hazard.cs",
+              "DocumentMoniker": "C:\\Users\\tyler\\Documents\\GitHub\\Game-Dev-III\\My project\\Assets\\Assets\\Prototype 3\\Scripts\\Hazard.cs",
+              "RelativeDocumentMoniker": "Assets\\Assets\\Prototype 3\\Scripts\\Hazard.cs",
+              "ToolTip": "C:\\Users\\tyler\\Documents\\GitHub\\Game-Dev-III\\My project\\Assets\\Assets\\Prototype 3\\Scripts\\Hazard.cs",
+              "RelativeToolTip": "Assets\\Assets\\Prototype 3\\Scripts\\Hazard.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwC0AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-09T12:44:35.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TimeRewind.cs",
+              "DocumentMoniker": "C:\\Users\\tyler\\Documents\\GitHub\\Game-Dev-III\\My project\\Assets\\Assets\\Prototype 3\\Scripts\\TimeRewind.cs",
+              "RelativeDocumentMoniker": "Assets\\Assets\\Prototype 3\\Scripts\\TimeRewind.cs",
+              "ToolTip": "C:\\Users\\tyler\\Documents\\GitHub\\Game-Dev-III\\My project\\Assets\\Assets\\Prototype 3\\Scripts\\TimeRewind.cs",
+              "RelativeToolTip": "Assets\\Assets\\Prototype 3\\Scripts\\TimeRewind.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAADwvx4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-09T12:17:50.449Z",
               "EditorCaption": ""
             }
           ]
