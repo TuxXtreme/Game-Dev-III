@@ -53,21 +53,29 @@
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\6000.5.0f1\Editor\Data\BCLExtensions\TargetingPacks\netstandard2.1\analyzers\dotnet\roslyn4.0\cs\System.Text.Json.SourceGeneration.dll" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Assets\Prototype 2\Scripts\Sun.cs" />
     <Compile Include="Assets\Assets\Prototype 2\Scripts\TreeGrowth.cs" />
+    <Compile Include="Assets\Assets\Prototype 3\Scripts\Hazard.cs" />
     <Compile Include="Assets\Assets\Prototype 2\Scripts\SunlightPickup.cs" />
+    <Compile Include="Assets\Assets\Prototype 3\Scripts\Goal.cs" />
+    <Compile Include="Assets\Assets\Prototype 2\Scripts\SunPickup.cs" />
     <Compile Include="Assets\Assets\Prototype 1\Tutorial\Scripts\SpawnManager.cs" />
+    <Compile Include="Assets\Assets\Prototype 3\Scripts\TimeEcho.cs" />
     <Compile Include="Assets\Assets\Prototype 1\Tutorial\Scripts\PlayerController.cs" />
     <Compile Include="Assets\Assets\Prototype 1\Challenge 4\Scripts\EnemyX.cs" />
     <Compile Include="Assets\Assets\Universal\Scripts\GameManager.cs" />
+    <Compile Include="Assets\Assets\Prototype 3\Scripts\TimeRewind.cs" />
     <Compile Include="Assets\Assets\Prototype 2\Scripts\PlayerInventory.cs" />
     <Compile Include="Assets\Assets\Prototype 1\Challenge 4\Scripts\PlayerControllerX.cs" />
     <Compile Include="Assets\Assets\Prototype 1\Challenge 4\Scripts\SpawnManagerX.cs" />
     <Compile Include="Assets\Assets\Prototype 2\Scripts\WaterPickup.cs" />
     <Compile Include="Assets\InputSystem_Actions.cs" />
+    <Compile Include="Assets\Assets\Prototype 3\Scripts\PressurePlate.cs" />
     <Compile Include="Assets\Assets\Prototype 1\Tutorial\Scripts\Enemy.cs" />
     <Compile Include="Assets\Assets\Prototype 1\Challenge 4\Scripts\RotateCameraX.cs" />
     <Compile Include="Assets\Assets\Prototype 1\Tutorial\Scripts\RotateCamera.cs" />
-    <Compile Include="Assets\Assets\Prototype 2\Scripts\PlayerMovement.cs" />
+    <Compile Include="Assets\Assets\Prototype 3\Scripts\MovingObstacle.cs" />
+    <Compile Include="Assets\Assets\Universal\Scripts\PlayerMovement.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
