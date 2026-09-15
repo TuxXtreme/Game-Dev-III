@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 2048
     height: 1060.8
   m_ShowMode: 4
-  m_Title: Hierarchy
+  m_Title: Game
   m_RootView: {fileID: 6}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -112,7 +112,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 1
   m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
-  m_Name: ConsoleWindow
+  m_Name: ProjectBrowser
   m_EditorClassIdentifier: 
   m_Children: []
   m_Position:
@@ -121,14 +121,14 @@ MonoBehaviour:
     y: 732.8
     width: 1564
     height: 272.00006
-  m_MinSize: {x: 101, y: 126}
-  m_MaxSize: {x: 4001, y: 4026}
-  m_ActualView: {fileID: 18}
+  m_MinSize: {x: 231, y: 276}
+  m_MaxSize: {x: 10001, y: 10026}
+  m_ActualView: {fileID: 13}
   m_Panes:
   - {fileID: 13}
   - {fileID: 18}
-  m_Selected: 1
-  m_LastSelected: 0
+  m_Selected: 0
+  m_LastSelected: 1
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -262,7 +262,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 1
   m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
-  m_Name: SceneView
+  m_Name: GameView
   m_EditorClassIdentifier: 
   m_Children: []
   m_Position:
@@ -273,12 +273,12 @@ MonoBehaviour:
     height: 732.8
   m_MinSize: {x: 202, y: 226}
   m_MaxSize: {x: 4002, y: 4026}
-  m_ActualView: {fileID: 16}
+  m_ActualView: {fileID: 17}
   m_Panes:
   - {fileID: 16}
   - {fileID: 17}
-  m_Selected: 0
-  m_LastSelected: 1
+  m_Selected: 1
+  m_LastSelected: 0
 --- !u!114 &12
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -612,7 +612,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Assets/Prototype 4/Scripts
+    - Assets/Assets/Prototype 5/Assets/Prototype 5/Scripts
     m_Globs: []
     m_ProductIds: 
     m_AnyWithAssetOrigin: 0
@@ -622,24 +622,27 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Assets/Prototype 4/Scripts
+  - Assets/Assets/Prototype 5/Assets/Prototype 5/Scripts
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\tyler\Documents\GitHub\Game-Dev-III\My project
   m_LockTracker:
     m_IsLocked: 0
   m_LastLocalAssetsSearchArea: 1
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 65.99994}
+    scrollPos: {x: 0, y: 177.99994}
     m_SelectedIDs:
-    - m_rawData: 568105584918847662
+    - m_rawData: 568105584918847710
     m_LastClickedID:
-      m_rawData: 568105584918847662
+      m_rawData: 568105584918847710
     m_ExpandedIDs:
-    - m_rawData: 568105589213707994
+    - m_rawData: 568105589213707618
     - m_rawData: 0
-    - m_rawData: 568105584918847408
-    - m_rawData: 568105584918847410
-    - m_rawData: 568105584918847434
+    - m_rawData: 568105584918847440
+    - m_rawData: 568105584918847442
+    - m_rawData: 568105584918847454
+    - m_rawData: 568105584918847466
+    - m_rawData: 568105584918847704
+    - m_rawData: 568105584918847706
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -699,10 +702,9 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
-    m_SelectedInstanceIDs:
-    - m_rawData: 568105589213688836
+    m_SelectedInstanceIDs: []
     m_LastClickedEntityId:
-      m_rawData: 568105589213688836
+      m_rawData: 0
     m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: []
     m_RenameOverlay:
@@ -836,12 +838,11 @@ MonoBehaviour:
       m_LastClickedID:
         m_rawData: 0
       m_ExpandedIDs:
-      - m_rawData: 568105589213678920
-      - m_rawData: 568105589213697334
-      - m_rawData: 568105589213707252
-      - m_rawData: 568105589213707386
-      - m_rawData: 568105589213707634
-      - m_rawData: 568105589213708520
+      - m_rawData: 568105589213705886
+      - m_rawData: 568105589213706182
+      - m_rawData: 568105589213706774
+      - m_rawData: 568105589213707502
+      - m_rawData: 568105589213708524
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -1479,9 +1480,9 @@ MonoBehaviour:
   m_AudioPlay: 0
   m_DebugDrawModesUseInteractiveLightBakingData: 0
   m_Position:
-    m_Target: {x: 816.9526, y: 578.37244, z: 98.6615}
+    m_Target: {x: -1.1712922, y: 0.24399042, z: -15.724804}
     speed: 2
-    m_Value: {x: 816.9526, y: 578.37244, z: 98.6615}
+    m_Value: {x: -1.1712922, y: 0.24399042, z: -15.724804}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -1528,13 +1529,13 @@ MonoBehaviour:
     m_gridOpacity: 0.5
     m_NearestPlaneToHandleMode: 0
   m_Rotation:
-    m_Target: {x: -0.0017907219, y: -0.0021055653, z: -0.0000039537954, w: 1.0000131}
+    m_Target: {x: 0.017406499, y: 0.015891712, z: -0.00027675778, w: 0.999741}
     speed: 2
-    m_Value: {x: -0.0017906916, y: -0.0021055297, z: -0.0000039537285, w: 0.9999962}
+    m_Value: {x: 0.017406171, y: 0.015891412, z: -0.00027675257, w: 0.9997222}
   m_Size:
-    m_Target: 746.8516
+    m_Target: 2.0150993
     speed: 2
-    m_Value: 746.8516
+    m_Value: 2.0150993
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -1643,7 +1644,7 @@ MonoBehaviour:
     m_HSlider: 0
     m_VSlider: 0
     m_IgnoreScrollWheelUntilClicked: 0
-    m_EnableMouseInput: 0
+    m_EnableMouseInput: 1
     m_EnableSliderZoomHorizontal: 0
     m_EnableSliderZoomVertical: 0
     m_UniformScale: 1
